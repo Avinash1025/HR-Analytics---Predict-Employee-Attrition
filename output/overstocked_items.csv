@@ -1,0 +1,590 @@
+OrderID,Date,Category,SubCategory,ProductName,Region,UnitsSold,UnitPrice,UnitCost,InventoryDays,Season,Profit
+220151,2024-05-08,Toys,Board Games,Board Games Product 648,East,1,158.11,132.92,98,Winter,25.190000000000026
+388998,2024-02-10,Home & Kitchen,Decor,Decor Product 28,North,1,712.72,583.51,132,Spring,129.21000000000004
+840976,2024-03-21,Electronics,Laptops,Laptops Product 699,North,2,963.2,650.68,140,Winter,625.0400000000002
+190272,2024-03-08,Sports,Outdoor,Outdoor Product 801,North,3,177.59,135.79,198,Fall,125.40000000000003
+788105,2024-08-10,Sports,Fitness,Fitness Product 566,South,3,207.09,140.93,137,Winter,198.48
+825948,2024-06-27,Electronics,Cameras,Cameras Product 427,North,3,804.93,646.48,133,Winter,475.3499999999998
+734736,2024-03-02,Toys,Board Games,Board Games Product 596,South,3,686.25,564.08,114,Winter,366.5099999999999
+825256,2024-10-10,Electronics,Laptops,Laptops Product 718,North,4,311.68,196.36,149,Winter,461.28
+560857,2024-02-13,Electronics,Cameras,Cameras Product 685,North,1,488.16,305.04,175,Spring,183.12
+965291,2024-11-25,Electronics,Laptops,Laptops Product 736,East,3,308.6,277.35,153,Winter,93.75
+222402,2024-09-09,Electronics,Cameras,Cameras Product 390,North,1,704.2,535.78,166,Spring,168.42000000000007
+300244,2024-06-13,Toys,Board Games,Board Games Product 714,East,3,543.66,448.5,190,Winter,285.4799999999999
+718362,2024-11-01,Toys,Puzzles,Puzzles Product 268,South,2,131.29,105.23,191,Summer,52.119999999999976
+314879,2024-07-13,Home & Kitchen,Cookware,Cookware Product 667,North,4,703.71,460.24,193,Summer,973.8800000000001
+637198,2024-09-20,Clothing,Kids,Kids Product 936,South,4,655.85,487.87,120,Spring,671.9200000000001
+903692,2024-08-16,Electronics,Cameras,Cameras Product 377,West,2,391.2,274.32,196,Summer,233.76
+666821,2024-10-19,Toys,Board Games,Board Games Product 894,South,1,741.52,562.78,99,Fall,178.74
+689833,2024-09-17,Home & Kitchen,Decor,Decor Product 919,South,1,491.52,373.45,143,Fall,118.07
+577272,2024-10-22,Sports,Fitness,Fitness Product 840,North,4,250.98,198.31,98,Spring,210.67999999999995
+953088,2024-10-15,Sports,Fitness,Fitness Product 254,South,4,542.79,471.23,166,Winter,286.2399999999998
+594592,2024-11-14,Electronics,Laptops,Laptops Product 950,East,4,251.19,163.19,191,Winter,352.0
+374486,2024-12-24,Toys,Board Games,Board Games Product 643,West,4,412.75,316.95,138,Winter,383.20000000000005
+912831,2024-06-26,Clothing,Women,Women Product 391,East,1,899.48,681.78,96,Fall,217.70000000000005
+187955,2024-01-11,Sports,Indoor Games,Indoor Games Product 746,East,2,591.38,429.59,138,Winter,323.58000000000004
+166150,2024-09-29,Sports,Outdoor,Outdoor Product 526,East,3,750.16,462.45,155,Spring,863.1299999999999
+266472,2024-10-31,Clothing,Women,Women Product 889,South,1,248.94,152.51,190,Summer,96.43
+678316,2024-04-29,Clothing,Kids,Kids Product 893,East,3,763.07,617.18,169,Spring,437.6700000000003
+238563,2024-08-06,Toys,Puzzles,Puzzles Product 192,West,4,933.39,588.74,157,Fall,1378.6
+709996,2024-07-27,Toys,Board Games,Board Games Product 72,West,2,216.51,161.84,97,Summer,109.33999999999997
+679518,2024-07-25,Electronics,Cameras,Cameras Product 353,North,3,657.32,433.74,198,Spring,670.7400000000001
+691491,2024-04-11,Sports,Fitness,Fitness Product 19,South,2,302.91,191.66,134,Spring,222.50000000000006
+646900,2024-10-08,Home & Kitchen,Decor,Decor Product 328,North,2,185.08,146.73,183,Summer,76.70000000000005
+863264,2024-06-20,Electronics,Laptops,Laptops Product 376,East,4,201.52,176.4,127,Spring,100.48000000000002
+384564,2024-11-03,Sports,Fitness,Fitness Product 768,East,4,805.51,715.19,197,Summer,361.27999999999975
+863711,2024-12-27,Clothing,Men,Men Product 866,East,4,746.88,645.63,113,Fall,405.0
+853158,2024-03-10,Home & Kitchen,Cookware,Cookware Product 639,North,4,908.31,582.93,187,Summer,1301.52
+229350,2024-03-26,Toys,Board Games,Board Games Product 289,South,4,199.36,120.93,136,Winter,313.72
+630062,2024-08-19,Home & Kitchen,Decor,Decor Product 213,West,4,507.31,356.1,119,Spring,604.8399999999999
+319780,2024-08-14,Home & Kitchen,Furniture,Furniture Product 701,South,2,568.56,431.09,163,Spring,274.93999999999994
+821037,2024-04-09,Clothing,Kids,Kids Product 501,South,2,909.05,728.35,129,Spring,361.39999999999986
+365972,2024-07-10,Electronics,Laptops,Laptops Product 318,East,1,836.65,713.81,99,Winter,122.84000000000003
+853298,2024-08-26,Toys,Action Figures,Action Figures Product 412,West,1,271.56,217.14,136,Spring,54.420000000000016
+581719,2024-06-04,Clothing,Kids,Kids Product 933,East,1,609.05,494.35,161,Spring,114.69999999999993
+607365,2024-11-16,Electronics,Mobiles,Mobiles Product 31,West,2,683.58,534.38,185,Fall,298.4000000000001
+825753,2024-12-06,Sports,Indoor Games,Indoor Games Product 942,North,2,841.78,595.02,169,Summer,493.52
+469836,2024-08-24,Electronics,Laptops,Laptops Product 162,North,1,482.84,417.2,109,Summer,65.63999999999999
+440676,2024-09-12,Electronics,Mobiles,Mobiles Product 651,North,2,244.12,216.51,178,Fall,55.22000000000003
+462916,2024-07-13,Home & Kitchen,Decor,Decor Product 367,East,4,52.15,41.24,131,Summer,43.639999999999986
+911050,2024-03-18,Electronics,Mobiles,Mobiles Product 826,North,4,392.91,254.96,155,Summer,551.8000000000001
+427031,2024-01-22,Home & Kitchen,Decor,Decor Product 883,East,4,867.99,561.75,181,Spring,1224.96
+448754,2024-06-27,Electronics,Mobiles,Mobiles Product 210,West,3,89.47,62.08,123,Summer,82.17
+479270,2024-03-19,Home & Kitchen,Cookware,Cookware Product 215,West,1,221.29,158.1,150,Spring,63.19
+789870,2024-10-09,Toys,Puzzles,Puzzles Product 778,East,2,631.18,501.5,159,Spring,259.3599999999999
+886331,2024-09-27,Electronics,Laptops,Laptops Product 644,East,3,28.15,20.55,94,Winter,22.799999999999994
+163610,2024-07-06,Electronics,Mobiles,Mobiles Product 742,South,2,897.44,717.9,198,Summer,359.08000000000015
+755496,2024-01-06,Clothing,Men,Men Product 109,North,1,515.52,454.86,122,Winter,60.65999999999997
+403602,2024-05-01,Sports,Outdoor,Outdoor Product 650,North,1,541.25,452.93,167,Spring,88.32
+376815,2024-12-29,Electronics,Laptops,Laptops Product 947,North,1,728.97,554.53,102,Spring,174.44000000000005
+104994,2024-05-18,Electronics,Cameras,Cameras Product 693,North,2,462.27,302.8,178,Summer,318.93999999999994
+145095,2024-02-28,Sports,Indoor Games,Indoor Games Product 951,South,3,61.98,45.49,191,Fall,49.469999999999985
+116279,2024-02-27,Toys,Board Games,Board Games Product 328,North,1,247.41,168.14,152,Winter,79.27000000000001
+213776,2024-09-27,Clothing,Women,Women Product 163,East,3,193.65,133.29,195,Fall,181.08000000000004
+702251,2024-05-11,Toys,Board Games,Board Games Product 87,South,2,670.25,484.83,104,Fall,370.84000000000003
+847108,2024-04-20,Clothing,Kids,Kids Product 385,South,1,133.39,81.12,192,Fall,52.26999999999998
+276298,2024-06-07,Sports,Outdoor,Outdoor Product 201,West,3,184.84,159.66,145,Summer,75.54000000000002
+512310,2024-12-15,Clothing,Women,Women Product 902,South,2,683.89,498.24,180,Winter,371.29999999999995
+457776,2024-04-05,Sports,Outdoor,Outdoor Product 388,East,3,581.58,405.69,115,Summer,527.6700000000001
+614241,2024-11-11,Home & Kitchen,Furniture,Furniture Product 984,West,2,516.94,409.09,196,Spring,215.70000000000016
+807910,2024-11-01,Electronics,Laptops,Laptops Product 908,East,1,43.06,31.39,148,Winter,11.670000000000002
+576545,2024-06-07,Toys,Puzzles,Puzzles Product 569,South,4,638.75,464.96,161,Summer,695.1600000000001
+708986,2024-03-29,Sports,Outdoor,Outdoor Product 72,North,2,816.01,583.62,182,Fall,464.78
+412579,2024-01-01,Electronics,Mobiles,Mobiles Product 71,South,4,682.11,417.06,180,Spring,1060.2
+851993,2024-01-11,Home & Kitchen,Cookware,Cookware Product 580,East,1,395.55,263.0,117,Summer,132.55
+322633,2024-01-25,Home & Kitchen,Cookware,Cookware Product 503,East,2,279.18,209.68,181,Spring,139.0
+190140,2024-02-04,Clothing,Kids,Kids Product 518,South,3,632.82,382.03,92,Fall,752.3700000000002
+405273,2024-12-05,Toys,Puzzles,Puzzles Product 175,West,3,857.71,759.69,145,Summer,294.05999999999995
+196502,2024-09-17,Electronics,Laptops,Laptops Product 788,West,3,934.1,566.1,130,Winter,1104.0
+981459,2024-12-06,Home & Kitchen,Decor,Decor Product 477,North,3,141.37,87.81,123,Winter,160.68
+816438,2024-03-11,Sports,Outdoor,Outdoor Product 515,North,2,772.61,609.26,106,Winter,326.70000000000005
+301528,2024-05-09,Electronics,Mobiles,Mobiles Product 352,West,1,554.58,367.2,154,Winter,187.38000000000005
+615447,2024-02-16,Sports,Outdoor,Outdoor Product 107,East,4,217.24,188.36,91,Fall,115.51999999999998
+210489,2024-01-02,Electronics,Laptops,Laptops Product 398,West,3,46.33,33.09,189,Winter,39.719999999999985
+892879,2024-05-09,Clothing,Men,Men Product 596,East,2,221.86,133.18,96,Winter,177.36
+983302,2024-04-15,Toys,Board Games,Board Games Product 365,South,3,914.97,655.48,119,Winter,778.47
+494051,2024-07-17,Clothing,Men,Men Product 215,East,4,352.17,295.36,186,Winter,227.24
+599730,2024-12-30,Sports,Indoor Games,Indoor Games Product 300,West,4,318.81,209.71,109,Fall,436.4
+892473,2024-03-02,Electronics,Laptops,Laptops Product 515,North,3,531.3,352.76,194,Spring,535.6199999999999
+488742,2024-01-26,Toys,Board Games,Board Games Product 864,West,1,162.61,140.4,120,Summer,22.210000000000008
+769745,2024-06-14,Electronics,Laptops,Laptops Product 106,South,2,452.67,289.35,122,Spring,326.64
+760284,2024-09-15,Electronics,Laptops,Laptops Product 980,West,2,468.61,387.94,146,Winter,161.34000000000003
+115385,2024-04-30,Electronics,Cameras,Cameras Product 910,East,2,572.46,378.68,184,Winter,387.56000000000006
+511377,2024-10-07,Electronics,Laptops,Laptops Product 323,South,3,463.17,297.74,190,Fall,496.29
+341482,2024-06-07,Home & Kitchen,Cookware,Cookware Product 989,South,1,924.71,612.15,149,Summer,312.56000000000006
+346476,2024-04-27,Sports,Fitness,Fitness Product 485,South,4,415.3,333.46,173,Fall,327.3600000000001
+309272,2024-11-29,Clothing,Women,Women Product 152,South,1,422.1,312.86,142,Winter,109.24000000000001
+185395,2024-03-22,Clothing,Men,Men Product 641,West,4,751.52,652.36,136,Spring,396.6399999999999
+986226,2024-07-19,Toys,Board Games,Board Games Product 540,North,2,944.9,568.03,185,Spring,753.74
+968173,2024-07-14,Electronics,Laptops,Laptops Product 602,North,4,209.75,152.04,198,Spring,230.84000000000003
+107086,2024-11-26,Toys,Board Games,Board Games Product 270,South,4,771.89,510.81,108,Spring,1044.32
+770608,2024-05-21,Sports,Indoor Games,Indoor Games Product 499,North,3,861.66,679.56,95,Fall,546.3000000000001
+227337,2024-04-02,Home & Kitchen,Decor,Decor Product 321,East,4,377.75,275.66,151,Winter,408.3599999999999
+585077,2024-02-25,Sports,Fitness,Fitness Product 799,South,1,789.96,551.18,127,Winter,238.7800000000001
+953161,2024-09-27,Electronics,Laptops,Laptops Product 417,North,4,836.33,576.46,187,Spring,1039.48
+812345,2024-05-29,Electronics,Cameras,Cameras Product 375,South,4,506.37,386.53,156,Winter,479.3600000000001
+763440,2024-06-16,Clothing,Kids,Kids Product 166,North,4,710.4,522.96,180,Spring,749.7599999999998
+834750,2024-10-15,Home & Kitchen,Furniture,Furniture Product 462,South,2,511.8,426.53,187,Summer,170.54000000000008
+541209,2024-12-11,Electronics,Cameras,Cameras Product 388,North,1,530.05,454.91,109,Winter,75.13999999999993
+274166,2024-11-02,Sports,Outdoor,Outdoor Product 850,West,4,469.79,315.48,103,Summer,617.24
+184821,2024-05-07,Clothing,Men,Men Product 986,North,1,637.98,468.84,164,Fall,169.14000000000004
+416855,2024-07-28,Sports,Fitness,Fitness Product 946,South,1,110.42,90.42,130,Spring,20.0
+330144,2024-05-10,Home & Kitchen,Cookware,Cookware Product 579,North,1,527.28,407.78,166,Winter,119.5
+223980,2024-07-24,Toys,Puzzles,Puzzles Product 503,East,4,50.44,38.65,104,Winter,47.16
+450882,2024-06-21,Sports,Outdoor,Outdoor Product 141,East,3,263.96,184.07,110,Spring,239.66999999999996
+452699,2024-02-02,Home & Kitchen,Cookware,Cookware Product 260,East,1,925.73,562.21,132,Winter,363.52
+454182,2024-09-27,Home & Kitchen,Cookware,Cookware Product 60,South,4,504.13,320.39,178,Spring,734.96
+905231,2024-01-04,Home & Kitchen,Decor,Decor Product 244,North,2,941.38,816.76,119,Spring,249.24
+830520,2024-08-02,Home & Kitchen,Decor,Decor Product 604,West,1,763.82,567.97,102,Fall,195.85000000000002
+411207,2024-05-14,Toys,Action Figures,Action Figures Product 825,West,1,30.46,23.97,163,Fall,6.490000000000002
+123259,2024-12-01,Toys,Puzzles,Puzzles Product 553,East,4,306.89,191.42,142,Summer,461.88
+171326,2024-02-14,Electronics,Mobiles,Mobiles Product 955,West,3,547.16,379.13,111,Fall,504.0899999999999
+446407,2024-12-18,Home & Kitchen,Cookware,Cookware Product 908,West,2,105.2,70.16,106,Spring,70.08000000000001
+611174,2024-03-20,Toys,Action Figures,Action Figures Product 583,West,2,234.42,177.36,133,Winter,114.11999999999995
+337225,2024-09-30,Clothing,Women,Women Product 254,North,4,28.2,17.62,155,Summer,42.31999999999999
+780503,2024-02-01,Toys,Board Games,Board Games Product 231,East,4,324.75,204.56,171,Summer,480.76
+557291,2024-05-20,Toys,Board Games,Board Games Product 638,North,1,512.79,315.66,96,Summer,197.12999999999994
+293708,2024-06-27,Sports,Fitness,Fitness Product 598,South,3,327.1,241.63,183,Summer,256.4100000000001
+600812,2024-05-14,Electronics,Mobiles,Mobiles Product 392,West,1,615.55,442.08,109,Spring,173.46999999999997
+166266,2024-02-26,Home & Kitchen,Decor,Decor Product 738,East,4,690.22,578.71,93,Spring,446.03999999999996
+493522,2024-05-15,Toys,Action Figures,Action Figures Product 909,South,3,94.58,64.52,174,Summer,90.18
+241753,2024-11-24,Home & Kitchen,Decor,Decor Product 956,West,1,360.78,311.33,99,Winter,49.44999999999999
+825772,2024-02-16,Sports,Indoor Games,Indoor Games Product 359,West,2,258.11,204.6,199,Spring,107.02000000000004
+753009,2024-07-06,Electronics,Cameras,Cameras Product 191,West,4,89.9,55.81,128,Fall,136.36
+481148,2024-02-22,Clothing,Women,Women Product 933,North,3,149.52,106.6,122,Summer,128.76000000000005
+505155,2024-11-02,Home & Kitchen,Furniture,Furniture Product 747,West,3,332.69,276.18,188,Fall,169.52999999999997
+308072,2024-08-09,Toys,Board Games,Board Games Product 152,North,3,935.36,653.1,173,Spring,846.78
+740102,2024-10-10,Home & Kitchen,Cookware,Cookware Product 705,West,1,583.37,419.68,139,Summer,163.69
+209367,2024-12-28,Clothing,Women,Women Product 383,West,2,917.61,814.32,106,Summer,206.57999999999993
+688212,2024-01-15,Electronics,Cameras,Cameras Product 690,East,2,357.67,268.05,103,Summer,179.24
+978836,2024-10-26,Toys,Action Figures,Action Figures Product 362,North,2,791.58,708.66,94,Fall,165.84000000000015
+877981,2024-02-07,Toys,Puzzles,Puzzles Product 733,North,3,545.57,372.31,103,Winter,519.7800000000002
+882680,2024-07-14,Home & Kitchen,Furniture,Furniture Product 78,West,4,361.31,259.01,125,Spring,409.20000000000005
+907662,2024-09-05,Toys,Puzzles,Puzzles Product 775,East,2,469.63,420.36,176,Spring,98.53999999999996
+857902,2024-07-07,Electronics,Laptops,Laptops Product 272,West,3,776.0,466.11,103,Spring,929.67
+639956,2024-01-09,Clothing,Men,Men Product 459,North,4,599.6,514.15,169,Spring,341.8000000000002
+905341,2024-10-14,Clothing,Women,Women Product 698,East,2,328.75,248.9,136,Spring,159.7
+949735,2024-09-27,Sports,Indoor Games,Indoor Games Product 677,East,4,622.35,531.96,114,Fall,361.55999999999995
+546850,2024-11-25,Toys,Action Figures,Action Figures Product 370,East,3,365.96,326.0,166,Summer,119.87999999999994
+677545,2024-03-27,Home & Kitchen,Cookware,Cookware Product 762,West,2,685.3,526.97,99,Fall,316.65999999999985
+244318,2024-02-22,Sports,Outdoor,Outdoor Product 859,West,3,159.71,135.99,122,Summer,71.16
+833838,2024-02-05,Sports,Indoor Games,Indoor Games Product 303,West,1,410.63,279.73,116,Fall,130.89999999999998
+118179,2024-04-17,Toys,Action Figures,Action Figures Product 754,South,2,102.01,88.79,188,Spring,26.439999999999998
+254779,2024-09-26,Sports,Outdoor,Outdoor Product 162,East,2,88.39,59.82,109,Winter,57.14
+642659,2024-07-22,Home & Kitchen,Furniture,Furniture Product 794,North,2,283.35,225.44,126,Winter,115.82000000000005
+539645,2024-06-22,Electronics,Cameras,Cameras Product 216,North,4,86.57,69.42,154,Fall,68.59999999999997
+759834,2024-10-05,Sports,Outdoor,Outdoor Product 743,West,4,132.49,108.35,172,Spring,96.56000000000006
+692190,2024-05-07,Electronics,Cameras,Cameras Product 368,South,3,81.77,71.21,143,Winter,31.680000000000007
+287213,2024-06-23,Clothing,Women,Women Product 904,South,4,826.57,553.21,150,Summer,1093.44
+685628,2024-12-17,Home & Kitchen,Cookware,Cookware Product 799,South,4,700.47,595.17,142,Fall,421.2000000000003
+696122,2024-01-27,Home & Kitchen,Cookware,Cookware Product 12,East,1,512.35,359.47,181,Winter,152.88
+863389,2024-08-01,Clothing,Kids,Kids Product 627,East,1,687.51,420.34,145,Fall,267.17
+514452,2024-12-25,Sports,Fitness,Fitness Product 81,North,1,685.92,476.47,102,Fall,209.44999999999993
+305156,2024-06-17,Home & Kitchen,Furniture,Furniture Product 524,East,1,668.68,494.89,169,Fall,173.78999999999996
+424078,2024-02-08,Home & Kitchen,Furniture,Furniture Product 162,North,3,576.58,374.54,106,Fall,606.1200000000001
+354477,2024-04-29,Sports,Indoor Games,Indoor Games Product 387,North,3,805.88,704.76,105,Fall,303.36
+254125,2024-04-22,Sports,Fitness,Fitness Product 77,West,4,576.48,514.86,145,Winter,246.48000000000002
+306068,2024-09-06,Electronics,Mobiles,Mobiles Product 878,West,3,866.04,691.05,119,Winter,524.97
+648795,2024-07-20,Toys,Board Games,Board Games Product 322,South,3,704.27,618.25,99,Winter,258.05999999999995
+797105,2024-09-24,Electronics,Cameras,Cameras Product 816,North,1,790.57,603.07,144,Summer,187.5
+635518,2024-12-23,Electronics,Cameras,Cameras Product 783,East,3,422.56,364.69,116,Spring,173.61
+410894,2024-06-25,Sports,Fitness,Fitness Product 257,North,3,215.47,133.21,183,Summer,246.77999999999997
+103487,2024-05-16,Toys,Board Games,Board Games Product 359,North,4,941.43,760.56,173,Spring,723.48
+767329,2024-03-24,Sports,Outdoor,Outdoor Product 950,West,3,180.83,111.46,118,Spring,208.11000000000007
+315238,2024-10-27,Sports,Indoor Games,Indoor Games Product 77,East,1,387.49,298.24,111,Summer,89.25
+504520,2024-04-08,Electronics,Laptops,Laptops Product 306,East,3,458.43,365.71,175,Summer,278.1600000000001
+813839,2024-12-14,Sports,Indoor Games,Indoor Games Product 809,North,1,658.85,402.95,131,Fall,255.90000000000003
+529586,2024-11-25,Clothing,Women,Women Product 401,North,1,378.67,273.16,149,Fall,105.50999999999999
+255304,2024-06-23,Sports,Fitness,Fitness Product 781,North,2,158.0,138.28,132,Spring,39.44
+693982,2024-10-28,Home & Kitchen,Cookware,Cookware Product 403,South,1,867.85,671.62,181,Summer,196.23000000000002
+190153,2024-10-21,Toys,Puzzles,Puzzles Product 926,West,4,101.55,88.81,98,Summer,50.95999999999998
+316585,2024-02-20,Electronics,Mobiles,Mobiles Product 861,North,3,123.21,99.19,141,Summer,72.05999999999999
+655284,2024-10-17,Electronics,Mobiles,Mobiles Product 169,North,1,910.73,600.79,152,Summer,309.94000000000005
+354268,2024-09-25,Toys,Puzzles,Puzzles Product 481,South,2,831.31,539.6,180,Summer,583.4199999999998
+481339,2024-09-25,Electronics,Laptops,Laptops Product 626,West,2,840.54,740.87,128,Summer,199.33999999999992
+455125,2024-09-11,Toys,Action Figures,Action Figures Product 463,North,3,910.48,767.13,110,Fall,430.05000000000007
+778929,2024-10-29,Clothing,Kids,Kids Product 928,East,4,190.92,148.29,147,Winter,170.51999999999998
+375538,2024-02-16,Clothing,Kids,Kids Product 392,North,2,845.86,573.11,96,Summer,545.5
+110372,2024-07-07,Home & Kitchen,Decor,Decor Product 723,South,2,953.19,698.47,183,Winter,509.44000000000005
+578388,2024-10-26,Sports,Indoor Games,Indoor Games Product 959,West,1,313.91,205.47,191,Fall,108.44000000000003
+648349,2024-11-30,Toys,Puzzles,Puzzles Product 465,West,2,47.14,30.26,107,Summer,33.76
+634979,2024-08-26,Home & Kitchen,Decor,Decor Product 476,West,1,277.78,202.24,119,Fall,75.53999999999996
+608690,2024-03-02,Home & Kitchen,Cookware,Cookware Product 327,East,2,766.05,678.93,176,Spring,174.24
+916744,2024-01-24,Electronics,Cameras,Cameras Product 712,North,3,937.75,832.65,124,Winter,315.30000000000007
+938146,2024-07-02,Toys,Board Games,Board Games Product 847,South,3,715.6,539.44,196,Fall,528.4799999999999
+322452,2024-09-16,Sports,Indoor Games,Indoor Games Product 516,North,1,34.0,27.87,129,Winter,6.129999999999999
+560287,2024-03-25,Sports,Outdoor,Outdoor Product 390,North,4,430.38,312.26,96,Summer,472.48
+364340,2024-12-05,Toys,Board Games,Board Games Product 705,East,3,175.22,131.53,170,Spring,131.07
+665260,2024-06-01,Electronics,Mobiles,Mobiles Product 239,West,2,734.34,516.95,150,Winter,434.78
+666687,2024-07-21,Sports,Outdoor,Outdoor Product 229,West,1,990.66,705.63,120,Winter,285.03
+763110,2024-03-17,Electronics,Cameras,Cameras Product 54,East,2,508.16,441.74,145,Spring,132.84000000000003
+210380,2024-02-05,Toys,Action Figures,Action Figures Product 599,West,3,336.18,284.74,167,Fall,154.32
+858612,2024-07-13,Toys,Action Figures,Action Figures Product 601,North,4,445.39,292.89,114,Summer,610.0
+196342,2024-09-05,Home & Kitchen,Furniture,Furniture Product 841,South,1,545.7,448.91,158,Fall,96.79000000000002
+225885,2024-07-12,Clothing,Kids,Kids Product 742,North,1,348.99,276.28,96,Spring,72.71000000000004
+687559,2024-07-20,Sports,Outdoor,Outdoor Product 786,North,1,477.26,414.91,193,Winter,62.349999999999966
+811562,2024-05-07,Electronics,Laptops,Laptops Product 678,East,1,847.89,558.53,195,Summer,289.36
+745061,2024-04-29,Sports,Indoor Games,Indoor Games Product 278,West,4,278.24,242.26,142,Summer,143.92000000000007
+439720,2024-01-22,Clothing,Women,Women Product 768,North,3,703.37,548.02,138,Winter,466.05000000000007
+664685,2024-03-01,Electronics,Laptops,Laptops Product 166,East,3,599.51,381.5,162,Summer,654.03
+258337,2024-01-19,Clothing,Men,Men Product 336,North,2,32.48,25.42,151,Summer,14.11999999999999
+809609,2024-05-20,Home & Kitchen,Furniture,Furniture Product 944,South,2,846.11,697.25,188,Summer,297.72
+743933,2024-11-07,Home & Kitchen,Cookware,Cookware Product 173,North,4,217.42,133.19,117,Winter,336.91999999999996
+531042,2024-10-16,Sports,Indoor Games,Indoor Games Product 76,North,3,177.17,121.68,175,Winter,166.46999999999994
+294006,2024-07-19,Toys,Action Figures,Action Figures Product 131,South,1,383.7,241.35,136,Fall,142.35
+250694,2024-09-17,Toys,Action Figures,Action Figures Product 618,West,4,801.12,503.18,117,Spring,1191.76
+738451,2024-06-12,Clothing,Kids,Kids Product 223,West,4,220.32,148.47,128,Winter,287.4
+101745,2024-11-05,Sports,Indoor Games,Indoor Games Product 808,North,1,189.62,121.71,165,Summer,67.91000000000001
+875381,2024-04-07,Toys,Board Games,Board Games Product 528,West,2,772.86,525.1,100,Summer,495.52
+525859,2024-01-31,Home & Kitchen,Furniture,Furniture Product 66,East,3,722.84,595.28,186,Summer,382.6800000000002
+216048,2024-01-14,Electronics,Laptops,Laptops Product 301,North,1,305.84,225.46,105,Winter,80.37999999999997
+230229,2024-12-03,Clothing,Women,Women Product 549,South,2,703.2,496.74,114,Summer,412.9200000000001
+145938,2024-03-14,Electronics,Laptops,Laptops Product 274,West,4,294.66,239.96,163,Winter,218.80000000000007
+290563,2024-11-19,Home & Kitchen,Furniture,Furniture Product 329,North,4,257.57,200.48,163,Summer,228.36
+980392,2024-06-10,Clothing,Men,Men Product 699,North,4,249.84,164.71,119,Spring,340.52
+111290,2024-02-05,Sports,Outdoor,Outdoor Product 160,North,1,713.99,595.18,187,Spring,118.81000000000006
+359258,2024-08-26,Clothing,Women,Women Product 390,South,3,819.31,535.63,186,Summer,851.0399999999998
+275369,2024-02-12,Sports,Indoor Games,Indoor Games Product 361,South,2,578.24,433.92,145,Summer,288.64
+396317,2024-11-19,Toys,Puzzles,Puzzles Product 171,West,2,816.8,611.93,107,Spring,409.74
+107799,2024-04-18,Clothing,Men,Men Product 415,North,2,246.7,172.74,133,Winter,147.91999999999996
+150785,2024-01-14,Toys,Puzzles,Puzzles Product 730,West,3,268.29,210.49,188,Fall,173.40000000000003
+445009,2024-06-25,Toys,Puzzles,Puzzles Product 115,North,3,319.16,212.78,145,Spring,319.1400000000001
+496496,2024-07-22,Electronics,Laptops,Laptops Product 519,South,1,625.84,540.38,150,Summer,85.46000000000004
+861380,2024-03-29,Electronics,Laptops,Laptops Product 930,East,2,240.89,181.09,103,Summer,119.59999999999997
+257873,2024-05-30,Home & Kitchen,Cookware,Cookware Product 829,South,4,492.45,419.0,101,Summer,293.79999999999995
+224826,2024-01-03,Home & Kitchen,Furniture,Furniture Product 60,South,1,61.95,51.0,158,Winter,10.950000000000003
+787984,2024-12-02,Clothing,Kids,Kids Product 241,East,4,886.24,667.0,178,Fall,876.96
+259860,2024-09-23,Sports,Indoor Games,Indoor Games Product 794,North,2,682.58,517.88,136,Spring,329.4000000000001
+213570,2024-01-25,Electronics,Laptops,Laptops Product 72,South,4,375.68,317.34,111,Summer,233.36000000000013
+461040,2024-09-11,Home & Kitchen,Furniture,Furniture Product 67,North,3,639.93,454.64,98,Spring,555.8699999999999
+700688,2024-04-06,Electronics,Mobiles,Mobiles Product 819,East,4,523.32,417.92,155,Summer,421.60000000000014
+559369,2024-11-20,Electronics,Cameras,Cameras Product 523,North,3,715.83,587.77,169,Winter,384.1800000000002
+753077,2024-05-22,Toys,Board Games,Board Games Product 244,North,4,742.36,622.25,138,Winter,480.44000000000005
+504753,2024-07-12,Home & Kitchen,Decor,Decor Product 764,West,2,176.27,132.52,199,Spring,87.5
+783450,2024-12-14,Toys,Puzzles,Puzzles Product 969,North,1,722.41,498.4,149,Spring,224.01
+148196,2024-10-20,Clothing,Men,Men Product 237,North,1,725.02,556.8,161,Summer,168.22000000000003
+749166,2024-02-14,Sports,Outdoor,Outdoor Product 662,North,3,486.06,416.56,109,Summer,208.5
+750099,2024-08-26,Clothing,Women,Women Product 858,South,4,843.06,669.67,179,Summer,693.56
+902963,2024-05-02,Electronics,Cameras,Cameras Product 112,West,3,74.27,45.69,150,Summer,85.74
+648736,2024-02-02,Toys,Action Figures,Action Figures Product 286,West,4,967.82,856.51,133,Winter,445.24000000000024
+449863,2024-10-03,Toys,Board Games,Board Games Product 156,East,4,51.4,31.27,142,Spring,80.52
+444568,2024-02-07,Clothing,Kids,Kids Product 203,East,4,608.7,481.09,171,Summer,510.4400000000003
+848470,2024-11-27,Home & Kitchen,Cookware,Cookware Product 947,East,1,60.44,54.03,104,Summer,6.409999999999997
+398800,2024-07-06,Home & Kitchen,Cookware,Cookware Product 113,West,1,329.02,286.53,107,Fall,42.49000000000001
+133749,2024-12-13,Toys,Puzzles,Puzzles Product 481,South,1,274.18,225.65,195,Spring,48.53
+143915,2024-01-21,Clothing,Kids,Kids Product 965,South,3,735.76,523.21,174,Spring,637.6499999999999
+166107,2024-06-27,Home & Kitchen,Furniture,Furniture Product 484,North,2,195.26,149.48,120,Spring,91.56
+112268,2024-04-02,Toys,Puzzles,Puzzles Product 447,South,2,723.47,560.19,147,Fall,326.55999999999995
+559167,2024-07-14,Electronics,Laptops,Laptops Product 621,West,3,780.78,488.33,115,Fall,877.3499999999999
+547220,2024-10-24,Sports,Indoor Games,Indoor Games Product 31,South,2,548.59,391.71,126,Spring,313.7600000000001
+213056,2024-04-25,Sports,Outdoor,Outdoor Product 874,South,1,562.17,496.17,112,Fall,65.99999999999994
+817608,2024-10-31,Electronics,Laptops,Laptops Product 466,East,4,318.0,203.17,173,Fall,459.32000000000005
+359605,2024-08-06,Home & Kitchen,Decor,Decor Product 738,North,2,286.34,249.4,93,Fall,73.87999999999994
+315148,2024-08-25,Sports,Fitness,Fitness Product 293,North,1,704.64,494.59,169,Fall,210.05
+956710,2024-11-12,Clothing,Men,Men Product 954,East,2,603.64,504.5,149,Spring,198.27999999999997
+300130,2024-01-10,Clothing,Men,Men Product 674,East,3,257.97,190.44,103,Winter,202.5900000000001
+818835,2024-07-15,Electronics,Cameras,Cameras Product 109,South,3,678.8,610.52,105,Winter,204.83999999999992
+621631,2024-02-28,Sports,Outdoor,Outdoor Product 250,West,3,539.25,348.61,144,Summer,571.92
+285333,2024-02-25,Sports,Fitness,Fitness Product 733,East,2,276.02,176.96,164,Spring,198.11999999999995
+970691,2024-11-30,Toys,Board Games,Board Games Product 699,North,1,670.23,503.91,148,Fall,166.32
+627350,2024-05-04,Sports,Outdoor,Outdoor Product 519,North,4,521.6,373.71,133,Fall,591.5600000000002
+757574,2024-10-14,Electronics,Mobiles,Mobiles Product 154,East,2,309.87,218.54,176,Fall,182.66000000000003
+154470,2024-02-05,Sports,Outdoor,Outdoor Product 791,East,1,919.06,638.69,140,Spring,280.3699999999999
+887443,2024-03-20,Toys,Board Games,Board Games Product 623,West,2,399.38,246.36,102,Summer,306.03999999999996
+831325,2024-12-13,Electronics,Mobiles,Mobiles Product 233,East,2,333.44,232.72,168,Fall,201.44
+197292,2024-01-18,Toys,Action Figures,Action Figures Product 246,North,1,61.51,48.87,156,Winter,12.64
+331620,2024-08-31,Electronics,Laptops,Laptops Product 840,East,4,346.85,258.87,96,Summer,351.9200000000001
+963019,2024-09-08,Home & Kitchen,Cookware,Cookware Product 395,East,3,646.85,435.37,183,Winter,634.44
+568114,2024-04-24,Home & Kitchen,Cookware,Cookware Product 486,East,1,542.95,342.95,132,Spring,200.00000000000006
+585959,2024-08-30,Electronics,Laptops,Laptops Product 383,North,2,196.05,157.03,105,Winter,78.04000000000002
+478916,2024-05-04,Sports,Fitness,Fitness Product 934,West,4,837.02,598.04,125,Winter,955.9200000000001
+390875,2024-08-06,Sports,Fitness,Fitness Product 217,East,1,415.88,350.14,134,Fall,65.74000000000001
+303807,2024-09-28,Clothing,Kids,Kids Product 836,West,2,357.02,304.74,133,Summer,104.55999999999995
+453724,2024-04-04,Home & Kitchen,Furniture,Furniture Product 553,North,3,74.99,58.65,149,Summer,49.01999999999999
+891767,2024-04-26,Electronics,Mobiles,Mobiles Product 179,East,2,638.85,560.26,116,Summer,157.18000000000006
+352355,2024-02-27,Home & Kitchen,Cookware,Cookware Product 668,West,1,851.71,735.86,159,Winter,115.85000000000002
+866984,2024-04-29,Sports,Outdoor,Outdoor Product 348,West,1,178.89,138.29,189,Winter,40.599999999999994
+802969,2024-10-19,Sports,Outdoor,Outdoor Product 179,East,2,88.06,68.58,156,Winter,38.96000000000001
+878335,2024-01-21,Sports,Fitness,Fitness Product 260,East,1,244.75,178.43,125,Spring,66.32
+745047,2024-01-05,Sports,Outdoor,Outdoor Product 686,South,2,672.54,551.89,91,Spring,241.29999999999995
+973373,2024-10-26,Clothing,Kids,Kids Product 351,North,3,201.6,123.33,154,Spring,234.81
+184104,2024-07-12,Sports,Indoor Games,Indoor Games Product 706,West,2,592.26,423.48,183,Spring,337.55999999999995
+529932,2024-02-20,Toys,Puzzles,Puzzles Product 215,South,1,670.71,450.87,94,Winter,219.84000000000003
+473142,2024-01-18,Clothing,Women,Women Product 494,East,3,128.66,103.54,103,Fall,75.35999999999997
+169064,2024-10-23,Sports,Indoor Games,Indoor Games Product 967,South,2,257.43,167.81,126,Summer,179.24
+290408,2024-05-03,Electronics,Cameras,Cameras Product 141,North,3,32.58,22.6,122,Summer,29.93999999999999
+815887,2024-05-21,Home & Kitchen,Cookware,Cookware Product 976,North,3,333.04,274.69,96,Spring,175.05000000000007
+428580,2024-06-12,Electronics,Cameras,Cameras Product 993,South,4,167.57,105.84,198,Spring,246.91999999999996
+743859,2024-04-20,Sports,Indoor Games,Indoor Games Product 829,South,3,238.49,173.47,195,Winter,195.06000000000003
+882223,2024-10-13,Sports,Fitness,Fitness Product 176,South,4,132.5,114.07,127,Spring,73.72000000000003
+639521,2024-12-15,Home & Kitchen,Furniture,Furniture Product 273,North,1,517.18,320.9,176,Summer,196.27999999999997
+820290,2024-05-02,Electronics,Mobiles,Mobiles Product 294,North,1,130.38,97.57,141,Spring,32.81
+326610,2024-09-30,Electronics,Mobiles,Mobiles Product 261,West,2,633.13,414.82,113,Summer,436.62
+887077,2024-02-01,Home & Kitchen,Cookware,Cookware Product 26,South,3,647.23,576.11,173,Fall,213.36
+375840,2024-08-09,Toys,Board Games,Board Games Product 397,East,4,215.44,192.03,161,Spring,93.63999999999999
+177538,2024-12-27,Toys,Action Figures,Action Figures Product 662,West,1,946.46,774.99,103,Summer,171.47000000000003
+759326,2024-06-10,Sports,Fitness,Fitness Product 922,West,2,269.9,181.31,138,Winter,177.17999999999995
+216506,2024-05-11,Sports,Indoor Games,Indoor Games Product 584,North,4,432.02,345.76,103,Fall,345.03999999999996
+324535,2024-02-13,Electronics,Laptops,Laptops Product 882,North,2,400.76,317.56,199,Winter,166.39999999999998
+613494,2024-10-02,Electronics,Mobiles,Mobiles Product 399,West,3,956.53,696.19,126,Spring,781.0199999999998
+434858,2024-02-18,Electronics,Cameras,Cameras Product 911,North,3,782.1,490.41,176,Fall,875.0699999999999
+575710,2024-08-15,Sports,Outdoor,Outdoor Product 476,East,2,487.51,408.62,158,Fall,157.77999999999997
+597019,2024-01-22,Home & Kitchen,Cookware,Cookware Product 474,East,4,498.4,333.11,114,Spring,661.1599999999999
+608370,2024-05-24,Sports,Outdoor,Outdoor Product 522,South,3,421.04,272.19,145,Winter,446.55000000000007
+341687,2024-08-17,Toys,Board Games,Board Games Product 538,West,3,453.52,390.31,174,Winter,189.62999999999994
+280607,2024-10-17,Toys,Board Games,Board Games Product 510,South,3,568.64,412.12,170,Spring,469.55999999999995
+580500,2024-09-09,Home & Kitchen,Decor,Decor Product 274,South,1,494.37,342.6,114,Fall,151.76999999999998
+213120,2024-11-04,Sports,Indoor Games,Indoor Games Product 114,East,2,741.48,595.58,130,Summer,291.79999999999995
+510050,2024-12-04,Clothing,Men,Men Product 351,South,4,974.64,833.0,125,Spring,566.56
+279453,2024-01-20,Clothing,Men,Men Product 204,North,3,511.41,431.74,139,Winter,239.01000000000005
+737534,2024-10-26,Sports,Indoor Games,Indoor Games Product 358,North,1,752.65,452.63,132,Winter,300.02
+959543,2024-07-28,Sports,Outdoor,Outdoor Product 859,East,4,794.36,530.12,141,Winter,1056.96
+675985,2024-04-26,Sports,Fitness,Fitness Product 622,West,3,655.71,533.22,129,Spring,367.47
+969874,2024-10-08,Clothing,Women,Women Product 310,East,2,733.97,574.92,186,Winter,318.10000000000014
+625080,2024-04-13,Clothing,Kids,Kids Product 844,East,4,934.5,830.2,108,Summer,417.1999999999998
+555241,2024-02-29,Sports,Outdoor,Outdoor Product 810,North,2,305.85,197.8,151,Spring,216.10000000000002
+546131,2024-12-30,Clothing,Kids,Kids Product 754,East,1,750.14,476.65,198,Spring,273.49
+988879,2024-07-07,Sports,Outdoor,Outdoor Product 304,West,4,152.1,115.94,140,Winter,144.64
+567592,2024-10-13,Clothing,Kids,Kids Product 901,East,4,902.33,669.49,124,Summer,931.3600000000001
+686646,2024-07-20,Clothing,Men,Men Product 894,North,1,225.0,179.34,115,Spring,45.66
+907453,2024-04-10,Clothing,Men,Men Product 579,West,1,307.97,210.3,162,Summer,97.67000000000002
+352028,2024-07-30,Home & Kitchen,Cookware,Cookware Product 934,South,2,660.33,493.88,152,Fall,332.9000000000001
+732828,2024-11-04,Toys,Action Figures,Action Figures Product 708,North,3,787.24,651.59,136,Winter,406.94999999999993
+570650,2024-06-25,Home & Kitchen,Cookware,Cookware Product 516,South,2,565.33,481.89,100,Winter,166.8800000000001
+264033,2024-11-26,Sports,Fitness,Fitness Product 801,East,2,835.46,617.21,190,Spring,436.5
+773348,2024-01-28,Home & Kitchen,Cookware,Cookware Product 911,East,3,58.36,35.66,104,Winter,68.10000000000001
+364396,2024-11-03,Electronics,Cameras,Cameras Product 651,West,3,84.06,61.62,163,Winter,67.32000000000002
+208159,2024-12-15,Home & Kitchen,Decor,Decor Product 132,East,1,461.29,321.32,149,Fall,139.97000000000003
+823242,2024-06-09,Sports,Indoor Games,Indoor Games Product 19,North,2,518.51,320.18,196,Winter,396.65999999999997
+572671,2024-04-30,Sports,Fitness,Fitness Product 761,West,1,885.32,784.33,93,Summer,100.99000000000001
+343762,2024-05-28,Clothing,Kids,Kids Product 927,West,2,366.89,237.74,196,Fall,258.29999999999995
+950160,2024-12-10,Sports,Outdoor,Outdoor Product 287,South,4,422.53,283.05,155,Fall,557.9199999999998
+116583,2024-08-23,Toys,Action Figures,Action Figures Product 853,South,4,323.45,251.14,108,Winter,289.24
+481817,2024-06-18,Home & Kitchen,Furniture,Furniture Product 594,South,2,156.25,102.32,114,Spring,107.86000000000001
+138557,2024-09-09,Home & Kitchen,Furniture,Furniture Product 634,North,3,396.73,249.12,122,Spring,442.83000000000004
+794385,2024-08-25,Home & Kitchen,Decor,Decor Product 938,North,3,305.62,227.16,175,Summer,235.38000000000002
+642444,2024-06-13,Clothing,Men,Men Product 325,West,2,786.12,580.25,103,Winter,411.74
+827515,2024-02-17,Clothing,Men,Men Product 167,West,3,216.64,140.28,138,Winter,229.07999999999996
+602777,2024-08-03,Clothing,Kids,Kids Product 574,West,3,783.34,627.57,193,Spring,467.30999999999995
+118327,2024-07-02,Sports,Outdoor,Outdoor Product 649,South,4,915.72,797.08,137,Spring,474.55999999999995
+497857,2024-02-08,Home & Kitchen,Cookware,Cookware Product 211,West,2,124.17,92.66,178,Winter,63.02000000000001
+852376,2024-06-13,Home & Kitchen,Furniture,Furniture Product 896,West,3,849.58,753.12,184,Winter,289.3800000000001
+299451,2024-10-20,Electronics,Laptops,Laptops Product 593,North,1,92.37,81.94,177,Spring,10.430000000000007
+494302,2024-12-08,Home & Kitchen,Cookware,Cookware Product 992,West,4,989.9,833.92,115,Spring,623.9200000000001
+761846,2024-03-14,Sports,Fitness,Fitness Product 135,South,4,776.54,660.59,124,Spring,463.7999999999997
+643934,2024-06-13,Electronics,Laptops,Laptops Product 583,West,4,82.73,59.53,155,Winter,92.80000000000001
+110111,2024-02-02,Electronics,Laptops,Laptops Product 661,West,4,692.51,523.21,92,Spring,677.1999999999998
+472279,2024-11-04,Home & Kitchen,Decor,Decor Product 357,East,3,39.15,24.94,128,Winter,42.629999999999995
+370200,2024-10-05,Toys,Board Games,Board Games Product 303,East,3,907.71,733.89,155,Summer,521.4600000000002
+392665,2024-03-03,Toys,Puzzles,Puzzles Product 806,North,1,574.09,465.98,164,Summer,108.11000000000001
+190672,2024-04-24,Sports,Indoor Games,Indoor Games Product 502,South,4,546.71,433.42,150,Summer,453.1600000000001
+628890,2024-05-25,Toys,Action Figures,Action Figures Product 478,West,3,432.48,344.04,139,Spring,265.32
+887416,2024-10-01,Home & Kitchen,Furniture,Furniture Product 381,North,2,182.89,117.34,163,Summer,131.09999999999997
+740147,2024-08-08,Sports,Outdoor,Outdoor Product 698,South,1,482.09,337.98,151,Summer,144.10999999999996
+838970,2024-08-20,Sports,Fitness,Fitness Product 980,South,2,213.79,156.49,157,Winter,114.59999999999997
+899405,2024-12-24,Toys,Board Games,Board Games Product 984,West,4,803.41,497.15,114,Summer,1225.04
+151604,2024-02-05,Electronics,Cameras,Cameras Product 358,East,4,219.83,157.09,187,Winter,250.96000000000004
+650050,2024-02-22,Home & Kitchen,Furniture,Furniture Product 475,East,3,20.19,17.57,99,Winter,7.860000000000003
+525395,2024-01-12,Clothing,Men,Men Product 294,West,1,385.69,280.42,126,Spring,105.26999999999998
+890842,2024-01-21,Clothing,Men,Men Product 16,South,2,390.55,345.49,109,Fall,90.12
+169942,2024-11-03,Toys,Puzzles,Puzzles Product 293,West,1,566.22,409.79,94,Winter,156.43
+184360,2024-05-08,Electronics,Cameras,Cameras Product 759,West,3,606.42,367.82,114,Winter,715.8
+393192,2024-09-22,Toys,Board Games,Board Games Product 541,West,4,758.49,495.93,143,Fall,1050.24
+346401,2024-10-25,Home & Kitchen,Decor,Decor Product 493,South,4,151.43,115.4,116,Fall,144.12
+720755,2024-11-09,Toys,Board Games,Board Games Product 770,North,2,863.96,748.75,143,Summer,230.42000000000007
+606212,2024-02-04,Toys,Puzzles,Puzzles Product 407,East,3,140.22,108.73,186,Spring,94.46999999999998
+848924,2024-06-05,Clothing,Women,Women Product 207,North,1,758.02,634.46,105,Winter,123.55999999999995
+620910,2024-02-07,Clothing,Women,Women Product 421,East,4,467.33,291.77,103,Spring,702.24
+682507,2024-02-28,Sports,Indoor Games,Indoor Games Product 72,North,3,233.86,144.49,138,Summer,268.11
+368966,2024-09-03,Toys,Action Figures,Action Figures Product 414,West,2,330.25,226.93,115,Winter,206.64
+177214,2024-06-02,Toys,Board Games,Board Games Product 625,South,2,366.22,294.88,163,Spring,142.68000000000006
+544182,2024-11-19,Toys,Puzzles,Puzzles Product 660,South,4,181.15,131.83,153,Spring,197.27999999999997
+256583,2024-09-01,Sports,Fitness,Fitness Product 313,West,2,409.77,279.05,156,Summer,261.43999999999994
+461561,2024-09-02,Clothing,Women,Women Product 239,West,3,29.54,20.89,153,Fall,25.949999999999996
+335417,2024-01-17,Electronics,Cameras,Cameras Product 91,North,1,357.23,234.51,145,Fall,122.72000000000003
+295149,2024-11-15,Sports,Fitness,Fitness Product 657,North,2,477.95,340.78,198,Spring,274.34000000000003
+898609,2024-02-08,Toys,Action Figures,Action Figures Product 543,West,2,732.76,610.63,145,Summer,244.26
+896470,2024-12-08,Electronics,Mobiles,Mobiles Product 959,West,2,444.07,269.87,169,Spring,348.4
+841357,2024-10-28,Electronics,Mobiles,Mobiles Product 650,South,1,503.24,432.48,153,Fall,70.75999999999999
+925995,2024-04-02,Electronics,Laptops,Laptops Product 981,East,3,133.46,118.12,170,Winter,46.02000000000001
+295670,2024-11-19,Sports,Indoor Games,Indoor Games Product 496,South,1,145.4,122.99,176,Spring,22.41000000000001
+673467,2024-06-03,Electronics,Laptops,Laptops Product 966,North,1,532.69,324.41,124,Spring,208.28000000000003
+518472,2024-10-24,Sports,Outdoor,Outdoor Product 998,South,1,722.69,484.61,98,Fall,238.08000000000004
+855735,2024-10-21,Toys,Puzzles,Puzzles Product 887,South,2,174.09,121.23,165,Fall,105.72
+879807,2024-03-03,Clothing,Men,Men Product 957,East,2,712.04,489.41,164,Winter,445.2599999999999
+262750,2024-03-16,Home & Kitchen,Furniture,Furniture Product 371,North,2,851.93,747.23,147,Spring,209.39999999999986
+821815,2024-05-03,Electronics,Cameras,Cameras Product 68,West,4,559.96,478.71,149,Winter,325.0000000000002
+693213,2024-02-28,Home & Kitchen,Cookware,Cookware Product 258,North,1,928.05,652.01,158,Summer,276.03999999999996
+955860,2024-07-20,Clothing,Kids,Kids Product 125,West,2,744.88,501.77,170,Fall,486.22
+967094,2024-11-18,Home & Kitchen,Furniture,Furniture Product 672,North,4,804.5,706.18,146,Fall,393.2800000000002
+673154,2024-06-10,Toys,Puzzles,Puzzles Product 963,East,2,96.16,77.88,130,Fall,36.56
+461672,2024-10-21,Home & Kitchen,Cookware,Cookware Product 3,North,4,637.9,393.97,129,Summer,975.7199999999998
+162017,2024-11-05,Electronics,Mobiles,Mobiles Product 2,North,4,169.05,119.93,186,Summer,196.48000000000002
+184277,2024-08-22,Toys,Action Figures,Action Figures Product 167,South,1,52.66,42.49,128,Fall,10.169999999999995
+768636,2024-01-06,Sports,Fitness,Fitness Product 705,East,4,160.72,143.62,191,Winter,68.39999999999998
+940597,2024-12-24,Electronics,Cameras,Cameras Product 225,South,3,907.12,651.9,154,Fall,765.6600000000001
+428911,2024-03-05,Toys,Puzzles,Puzzles Product 241,North,4,977.44,603.25,133,Fall,1496.7600000000002
+637960,2024-06-21,Toys,Puzzles,Puzzles Product 763,North,2,220.16,177.93,112,Summer,84.45999999999998
+623058,2024-11-22,Toys,Board Games,Board Games Product 474,South,3,501.1,399.97,108,Winter,303.39
+847542,2024-10-19,Toys,Board Games,Board Games Product 267,East,4,961.98,673.22,131,Spring,1155.04
+660610,2024-08-31,Home & Kitchen,Cookware,Cookware Product 645,South,1,455.73,374.0,142,Spring,81.73000000000002
+283038,2024-03-18,Clothing,Men,Men Product 965,South,2,248.93,219.95,175,Winter,57.960000000000036
+799573,2024-02-13,Toys,Puzzles,Puzzles Product 210,West,1,484.47,394.94,113,Winter,89.53000000000003
+404192,2024-05-03,Clothing,Kids,Kids Product 797,South,4,790.39,551.03,144,Spring,957.44
+255582,2024-06-28,Sports,Fitness,Fitness Product 438,West,4,96.27,83.65,102,Summer,50.47999999999996
+208715,2024-11-08,Sports,Fitness,Fitness Product 222,North,4,957.5,578.84,159,Spring,1514.6399999999999
+187781,2024-03-22,Toys,Action Figures,Action Figures Product 336,North,1,907.75,815.27,153,Spring,92.48000000000002
+613861,2024-12-07,Clothing,Men,Men Product 516,West,4,351.56,226.83,171,Summer,498.91999999999996
+375899,2024-01-07,Home & Kitchen,Cookware,Cookware Product 577,West,4,373.8,277.53,162,Winter,385.08000000000015
+687564,2024-02-16,Home & Kitchen,Furniture,Furniture Product 945,East,2,765.25,530.81,103,Fall,468.8800000000001
+662590,2024-06-15,Home & Kitchen,Cookware,Cookware Product 590,North,3,139.85,88.03,171,Winter,155.45999999999998
+292789,2024-07-08,Toys,Action Figures,Action Figures Product 531,East,3,276.2,192.51,177,Winter,251.07
+639597,2024-10-08,Toys,Puzzles,Puzzles Product 662,East,2,999.74,721.58,94,Summer,556.3199999999999
+342372,2024-11-20,Sports,Indoor Games,Indoor Games Product 177,North,1,747.01,585.92,126,Summer,161.09000000000003
+842732,2024-04-10,Sports,Indoor Games,Indoor Games Product 864,South,4,509.82,431.43,108,Fall,313.55999999999995
+330964,2024-06-18,Toys,Action Figures,Action Figures Product 847,North,4,699.63,605.17,165,Fall,377.84000000000015
+211558,2024-03-29,Toys,Puzzles,Puzzles Product 783,East,4,800.96,522.61,126,Summer,1113.4
+115223,2024-07-24,Home & Kitchen,Decor,Decor Product 242,East,4,462.85,286.02,198,Summer,707.3200000000002
+945751,2024-12-08,Sports,Fitness,Fitness Product 727,North,3,242.97,185.4,116,Spring,172.70999999999998
+726823,2024-04-26,Clothing,Men,Men Product 409,West,2,782.87,579.25,171,Spring,407.24
+214173,2024-04-04,Electronics,Cameras,Cameras Product 177,North,3,79.05,49.99,158,Summer,87.17999999999998
+910790,2024-02-27,Sports,Outdoor,Outdoor Product 140,West,3,506.3,435.06,153,Summer,213.72000000000003
+507742,2024-08-01,Sports,Indoor Games,Indoor Games Product 891,East,3,819.66,733.08,197,Winter,259.7399999999998
+639773,2024-09-17,Electronics,Laptops,Laptops Product 706,South,2,789.15,599.58,196,Winter,379.1399999999999
+245344,2024-09-08,Sports,Indoor Games,Indoor Games Product 681,West,4,552.93,332.6,109,Summer,881.3199999999997
+924922,2024-02-14,Toys,Puzzles,Puzzles Product 939,North,2,410.61,324.68,112,Winter,171.86
+871152,2024-10-19,Home & Kitchen,Furniture,Furniture Product 294,West,1,199.87,122.4,140,Fall,77.47
+615093,2024-07-20,Electronics,Laptops,Laptops Product 68,West,4,660.28,471.59,128,Spring,754.76
+198314,2024-09-08,Clothing,Kids,Kids Product 856,West,3,41.94,26.73,178,Fall,45.629999999999995
+737072,2024-02-19,Home & Kitchen,Decor,Decor Product 424,North,4,81.6,69.55,191,Summer,48.19999999999999
+510486,2024-09-24,Home & Kitchen,Cookware,Cookware Product 112,West,4,269.71,200.12,94,Winter,278.3599999999999
+214113,2024-09-02,Clothing,Kids,Kids Product 393,West,4,305.88,266.97,158,Spring,155.63999999999987
+702395,2024-11-27,Toys,Puzzles,Puzzles Product 27,East,2,835.02,709.78,196,Summer,250.48000000000002
+445071,2024-10-01,Electronics,Cameras,Cameras Product 668,North,2,416.63,299.38,186,Spring,234.5
+792070,2024-09-21,Clothing,Women,Women Product 756,West,1,622.17,412.84,176,Summer,209.32999999999998
+919634,2024-01-15,Toys,Board Games,Board Games Product 478,North,3,999.7,696.51,166,Fall,909.5700000000002
+910869,2024-10-08,Clothing,Men,Men Product 340,East,2,959.31,695.68,157,Spring,527.26
+816593,2024-12-01,Home & Kitchen,Decor,Decor Product 97,South,1,382.99,252.23,124,Summer,130.76000000000002
+954511,2024-09-03,Home & Kitchen,Cookware,Cookware Product 186,South,1,925.65,767.64,108,Winter,158.01
+547898,2024-07-08,Home & Kitchen,Cookware,Cookware Product 42,East,3,842.43,683.14,196,Summer,477.8699999999999
+813995,2024-07-01,Electronics,Mobiles,Mobiles Product 485,East,3,414.74,329.1,131,Winter,256.91999999999996
+702307,2024-09-18,Sports,Indoor Games,Indoor Games Product 322,North,4,239.67,147.52,143,Summer,368.5999999999999
+564754,2024-05-20,Sports,Fitness,Fitness Product 374,East,1,184.33,115.5,97,Summer,68.83000000000001
+395840,2024-11-03,Toys,Puzzles,Puzzles Product 657,North,4,398.35,279.59,99,Fall,475.0400000000002
+623451,2024-01-20,Sports,Outdoor,Outdoor Product 276,South,1,817.85,493.27,141,Summer,324.58000000000004
+740580,2024-05-25,Electronics,Cameras,Cameras Product 557,West,1,531.27,411.1,134,Winter,120.16999999999996
+594195,2024-08-17,Electronics,Mobiles,Mobiles Product 293,North,2,402.74,250.94,132,Spring,303.6
+834783,2024-05-07,Clothing,Kids,Kids Product 223,North,1,951.06,769.94,115,Winter,181.1199999999999
+781171,2024-02-20,Toys,Puzzles,Puzzles Product 983,East,3,495.43,349.73,177,Fall,437.09999999999997
+495976,2024-10-04,Electronics,Mobiles,Mobiles Product 361,North,4,722.37,631.98,197,Spring,361.55999999999995
+358295,2024-02-19,Toys,Puzzles,Puzzles Product 359,East,1,478.29,385.04,188,Winter,93.25
+791616,2024-11-07,Home & Kitchen,Cookware,Cookware Product 954,South,2,928.26,616.37,101,Fall,623.78
+176992,2024-05-21,Sports,Indoor Games,Indoor Games Product 784,South,2,729.03,600.48,158,Fall,257.0999999999999
+700212,2024-09-12,Electronics,Mobiles,Mobiles Product 389,East,1,539.65,413.8,103,Spring,125.84999999999997
+944532,2024-04-15,Electronics,Laptops,Laptops Product 198,East,4,868.04,596.72,119,Summer,1085.2799999999997
+653010,2024-01-15,Electronics,Cameras,Cameras Product 128,East,4,782.0,678.29,142,Spring,414.84000000000015
+936519,2024-02-01,Toys,Action Figures,Action Figures Product 356,West,4,466.5,396.77,187,Winter,278.9200000000001
+728372,2024-05-19,Home & Kitchen,Decor,Decor Product 13,South,4,520.19,387.31,153,Winter,531.5200000000002
+977098,2024-05-12,Toys,Board Games,Board Games Product 690,North,2,968.49,783.79,139,Summer,369.4000000000001
+570099,2024-12-04,Electronics,Laptops,Laptops Product 953,West,2,955.04,804.13,192,Summer,301.81999999999994
+764138,2024-03-28,Clothing,Men,Men Product 518,East,3,181.17,150.1,98,Winter,93.20999999999998
+748967,2024-08-09,Toys,Board Games,Board Games Product 844,North,3,454.3,303.71,199,Winter,451.7700000000001
+905351,2024-08-12,Electronics,Laptops,Laptops Product 392,North,4,119.84,105.13,193,Fall,58.84000000000003
+744886,2024-04-15,Toys,Puzzles,Puzzles Product 165,West,3,179.01,118.28,119,Spring,182.18999999999997
+408250,2024-06-10,Clothing,Men,Men Product 844,North,4,301.82,211.59,102,Spring,360.91999999999996
+958801,2024-07-11,Clothing,Women,Women Product 266,South,1,46.67,41.59,170,Winter,5.079999999999998
+839135,2024-04-06,Electronics,Cameras,Cameras Product 780,East,2,827.2,546.55,131,Fall,561.3000000000002
+774853,2024-09-18,Electronics,Laptops,Laptops Product 126,West,3,605.2,379.32,150,Spring,677.6400000000001
+311817,2024-03-10,Home & Kitchen,Cookware,Cookware Product 813,North,1,572.63,384.66,106,Summer,187.96999999999997
+686477,2024-09-22,Home & Kitchen,Furniture,Furniture Product 986,South,1,387.11,248.51,196,Winter,138.60000000000002
+252448,2024-03-03,Electronics,Cameras,Cameras Product 396,South,4,993.8,763.12,147,Spring,922.7199999999998
+443995,2024-08-03,Sports,Indoor Games,Indoor Games Product 277,East,4,47.82,29.81,134,Summer,72.04
+794031,2024-08-03,Home & Kitchen,Cookware,Cookware Product 942,South,2,177.82,120.46,138,Fall,114.72
+697999,2024-01-22,Clothing,Kids,Kids Product 267,South,4,549.95,367.93,161,Winter,728.0800000000002
+592970,2024-08-10,Electronics,Laptops,Laptops Product 757,North,3,301.91,192.86,141,Winter,327.15000000000003
+572318,2024-02-14,Electronics,Laptops,Laptops Product 828,North,1,953.94,721.27,198,Summer,232.67000000000007
+308264,2024-01-11,Clothing,Kids,Kids Product 349,East,3,372.74,310.18,171,Fall,187.68
+569210,2024-02-14,Toys,Action Figures,Action Figures Product 63,South,1,981.27,592.38,110,Winter,388.89
+943634,2024-02-22,Home & Kitchen,Cookware,Cookware Product 441,East,2,156.57,112.68,190,Summer,87.77999999999997
+429874,2024-09-12,Toys,Action Figures,Action Figures Product 110,South,4,281.13,250.78,136,Spring,121.39999999999998
+798653,2024-04-25,Electronics,Cameras,Cameras Product 149,North,4,33.41,24.12,126,Winter,37.15999999999998
+368714,2024-01-02,Clothing,Kids,Kids Product 154,West,1,461.68,412.82,197,Spring,48.860000000000014
+605382,2024-07-03,Clothing,Women,Women Product 115,South,3,451.39,317.22,194,Summer,402.5099999999999
+726806,2024-11-22,Toys,Puzzles,Puzzles Product 912,South,3,61.29,45.35,139,Spring,47.81999999999999
+626004,2024-04-01,Sports,Indoor Games,Indoor Games Product 730,North,4,622.57,417.28,97,Spring,821.1600000000003
+321104,2024-07-07,Home & Kitchen,Decor,Decor Product 490,West,2,190.1,141.41,180,Fall,97.38
+778813,2024-08-01,Electronics,Cameras,Cameras Product 313,East,4,653.55,542.3,176,Winter,445.0
+839585,2024-02-13,Clothing,Kids,Kids Product 168,West,3,324.59,209.14,167,Fall,346.34999999999997
+337807,2024-04-14,Sports,Indoor Games,Indoor Games Product 577,East,4,840.2,642.49,192,Winter,790.8400000000001
+164140,2024-11-01,Toys,Board Games,Board Games Product 693,East,1,430.0,328.46,128,Summer,101.54000000000002
+851764,2024-03-16,Toys,Action Figures,Action Figures Product 592,North,2,381.3,291.74,198,Spring,179.12
+638431,2024-09-06,Home & Kitchen,Furniture,Furniture Product 640,East,4,273.66,218.41,125,Spring,221.0000000000001
+714631,2024-09-07,Home & Kitchen,Furniture,Furniture Product 852,East,4,972.86,719.71,190,Fall,1012.5999999999999
+643476,2024-12-16,Sports,Outdoor,Outdoor Product 823,West,3,63.36,40.28,150,Summer,69.24
+443445,2024-05-23,Clothing,Men,Men Product 616,East,2,474.87,420.4,99,Fall,108.94000000000005
+751727,2024-07-20,Home & Kitchen,Furniture,Furniture Product 629,East,1,983.69,658.65,132,Spring,325.0400000000001
+267451,2024-11-17,Toys,Puzzles,Puzzles Product 505,West,3,267.11,195.08,93,Winter,216.09
+521603,2024-12-30,Electronics,Laptops,Laptops Product 902,East,1,174.49,140.96,166,Spring,33.53
+628905,2024-12-02,Toys,Action Figures,Action Figures Product 327,North,4,141.83,112.79,171,Fall,116.16000000000003
+182678,2024-09-12,Sports,Outdoor,Outdoor Product 442,North,1,463.72,309.78,150,Spring,153.94000000000005
+975600,2024-01-07,Electronics,Laptops,Laptops Product 330,East,1,807.22,558.81,161,Summer,248.41000000000008
+702885,2024-03-21,Electronics,Laptops,Laptops Product 544,East,2,137.74,109.68,149,Fall,56.120000000000005
+802878,2024-08-06,Clothing,Women,Women Product 448,North,1,653.79,495.99,91,Summer,157.79999999999995
+100275,2024-01-17,Clothing,Women,Women Product 436,North,4,672.07,417.11,122,Winter,1019.8400000000001
+426168,2024-08-01,Clothing,Men,Men Product 568,South,2,810.16,648.62,158,Summer,323.0799999999999
+433414,2024-05-04,Sports,Indoor Games,Indoor Games Product 67,South,4,700.05,500.22,180,Winter,799.3199999999997
+585237,2024-01-22,Electronics,Cameras,Cameras Product 39,East,3,459.98,390.3,149,Winter,209.04000000000002
+428537,2024-05-14,Electronics,Mobiles,Mobiles Product 658,East,3,172.16,135.5,125,Winter,109.97999999999999
+900704,2024-02-05,Clothing,Women,Women Product 747,South,1,91.63,68.27,185,Winter,23.36
+880400,2024-02-29,Clothing,Women,Women Product 282,North,2,976.75,608.49,124,Spring,736.52
+289147,2024-08-25,Clothing,Men,Men Product 539,South,3,350.04,261.58,198,Summer,265.3800000000001
+443321,2024-03-14,Sports,Indoor Games,Indoor Games Product 961,North,2,324.27,278.86,135,Winter,90.81999999999994
+737481,2024-08-28,Sports,Fitness,Fitness Product 327,North,2,963.99,726.28,101,Summer,475.4200000000001
+441835,2024-08-17,Electronics,Cameras,Cameras Product 190,East,1,322.59,209.51,127,Fall,113.07999999999998
+325992,2024-12-22,Clothing,Women,Women Product 353,South,1,567.97,341.73,96,Fall,226.24
+942981,2024-03-31,Electronics,Laptops,Laptops Product 404,West,3,201.94,145.14,146,Spring,170.40000000000003
+834941,2024-07-10,Electronics,Laptops,Laptops Product 731,East,3,767.24,477.97,168,Summer,867.81
+631270,2024-04-18,Home & Kitchen,Decor,Decor Product 359,West,2,45.91,34.45,128,Fall,22.919999999999987
+431004,2024-01-12,Clothing,Women,Women Product 118,West,3,79.66,63.12,118,Winter,49.62
+419265,2024-08-14,Sports,Outdoor,Outdoor Product 873,East,2,62.47,49.55,179,Summer,25.840000000000003
+277350,2024-07-11,Electronics,Cameras,Cameras Product 720,North,3,35.03,31.29,187,Fall,11.220000000000006
+318205,2024-10-06,Sports,Outdoor,Outdoor Product 463,South,3,692.32,548.33,144,Spring,431.97
+663702,2024-07-07,Toys,Puzzles,Puzzles Product 765,East,3,972.51,835.64,100,Spring,410.61
+306323,2024-02-06,Clothing,Men,Men Product 621,West,1,837.41,702.26,187,Summer,135.14999999999998
+925006,2024-02-01,Clothing,Men,Men Product 736,North,4,75.71,51.68,181,Winter,96.11999999999998
+715356,2024-03-02,Electronics,Mobiles,Mobiles Product 195,East,2,83.02,70.49,177,Summer,25.060000000000002
+783751,2024-05-29,Electronics,Cameras,Cameras Product 992,West,1,755.04,582.86,91,Winter,172.17999999999995
+279858,2024-06-02,Sports,Indoor Games,Indoor Games Product 620,East,3,662.42,593.14,122,Summer,207.83999999999992
+955673,2024-10-13,Sports,Fitness,Fitness Product 853,West,3,941.7,675.33,104,Fall,799.11
+729767,2024-11-13,Electronics,Laptops,Laptops Product 334,West,4,262.43,206.07,132,Summer,225.44000000000005
+475355,2024-03-06,Toys,Action Figures,Action Figures Product 686,West,2,928.35,715.09,167,Spring,426.52
+989079,2024-02-13,Electronics,Mobiles,Mobiles Product 453,West,3,933.53,590.34,175,Spring,1029.5699999999997
+378555,2024-12-30,Sports,Fitness,Fitness Product 731,South,2,330.57,269.2,94,Winter,122.74000000000001
+802275,2024-07-30,Sports,Fitness,Fitness Product 363,North,3,824.7,507.48,178,Spring,951.6600000000001
+862275,2024-10-04,Toys,Action Figures,Action Figures Product 776,South,4,55.46,37.16,121,Summer,73.20000000000002
+569205,2024-05-08,Sports,Outdoor,Outdoor Product 524,West,2,655.59,568.27,154,Summer,174.6400000000001
+213506,2024-11-19,Toys,Puzzles,Puzzles Product 47,South,2,344.15,296.15,140,Winter,96.0
+269998,2024-10-27,Toys,Board Games,Board Games Product 181,West,4,37.99,32.37,92,Spring,22.480000000000018
+770660,2024-02-18,Toys,Board Games,Board Games Product 633,North,2,956.44,837.54,102,Spring,237.80000000000018
+383395,2024-09-15,Electronics,Mobiles,Mobiles Product 997,East,1,419.45,331.57,160,Summer,87.88
+974744,2024-08-08,Sports,Outdoor,Outdoor Product 525,North,2,270.25,239.06,185,Fall,62.379999999999995
+891529,2024-01-17,Electronics,Laptops,Laptops Product 370,North,1,518.72,435.55,113,Fall,83.17000000000002
+624663,2024-04-11,Clothing,Women,Women Product 627,East,1,734.99,471.02,164,Summer,263.97
+927495,2024-02-26,Home & Kitchen,Furniture,Furniture Product 457,North,2,72.18,50.46,194,Winter,43.44000000000001
+776214,2024-10-14,Sports,Indoor Games,Indoor Games Product 724,West,4,940.63,663.62,181,Spring,1108.04
+104200,2024-02-23,Clothing,Women,Women Product 406,North,4,362.04,321.63,159,Spring,161.6400000000001
+424096,2024-05-19,Toys,Action Figures,Action Figures Product 878,East,2,265.29,204.47,119,Summer,121.64000000000004
+652914,2024-08-16,Clothing,Kids,Kids Product 892,North,2,769.29,609.67,96,Fall,319.24
+940958,2024-01-17,Home & Kitchen,Decor,Decor Product 505,South,2,472.69,386.46,182,Fall,172.46000000000004
+300835,2024-04-05,Toys,Board Games,Board Games Product 595,South,3,424.01,327.12,155,Fall,290.66999999999996
+132126,2024-10-30,Toys,Board Games,Board Games Product 174,South,2,164.72,112.44,130,Fall,104.56
+599642,2024-12-02,Clothing,Men,Men Product 716,South,1,264.29,181.35,179,Summer,82.94000000000003
+530280,2024-08-29,Sports,Fitness,Fitness Product 7,North,4,620.22,382.63,113,Winter,950.3600000000001
+626797,2024-04-22,Sports,Indoor Games,Indoor Games Product 105,West,3,792.3,549.71,97,Summer,727.7699999999998
+910957,2024-01-12,Home & Kitchen,Decor,Decor Product 678,East,1,286.04,234.37,103,Fall,51.670000000000016
+798093,2024-11-23,Clothing,Kids,Kids Product 294,West,2,478.48,379.34,157,Winter,198.2800000000001
+918711,2024-04-27,Toys,Puzzles,Puzzles Product 407,North,2,735.14,455.45,105,Summer,559.38
+763421,2024-06-22,Clothing,Women,Women Product 958,West,3,794.63,651.92,113,Spring,428.1300000000001
+463524,2024-10-14,Toys,Puzzles,Puzzles Product 857,South,1,613.24,492.75,136,Summer,120.49000000000001
+131135,2024-04-22,Clothing,Men,Men Product 507,North,4,424.91,296.57,102,Summer,513.3600000000001
+647225,2024-07-17,Toys,Action Figures,Action Figures Product 429,South,2,451.52,304.8,108,Summer,293.43999999999994
+342049,2024-07-26,Sports,Indoor Games,Indoor Games Product 989,West,3,589.98,394.01,161,Spring,587.9100000000001
+509055,2024-05-18,Toys,Board Games,Board Games Product 501,East,1,445.22,337.99,135,Winter,107.23000000000002
+290603,2024-08-16,Home & Kitchen,Cookware,Cookware Product 73,North,2,685.1,515.66,176,Fall,338.8800000000001
+853601,2024-10-22,Toys,Puzzles,Puzzles Product 406,South,1,163.0,141.1,175,Summer,21.900000000000006
+417023,2024-02-26,Electronics,Mobiles,Mobiles Product 123,North,1,789.81,622.17,147,Winter,167.64
+320635,2024-05-29,Clothing,Women,Women Product 908,West,3,827.07,570.41,122,Fall,769.9800000000002
+747568,2024-04-03,Electronics,Mobiles,Mobiles Product 611,South,1,449.58,336.75,172,Winter,112.82999999999998
+591494,2024-04-26,Home & Kitchen,Furniture,Furniture Product 192,South,2,701.58,609.83,179,Winter,183.5
+170168,2024-09-26,Sports,Outdoor,Outdoor Product 913,North,2,508.39,378.0,179,Summer,260.78
+663989,2024-03-02,Home & Kitchen,Furniture,Furniture Product 5,North,3,691.51,433.45,163,Spring,774.1800000000001
+484836,2024-10-05,Clothing,Men,Men Product 871,East,4,260.3,179.01,106,Winter,325.1600000000001
+268451,2024-09-22,Toys,Action Figures,Action Figures Product 947,South,4,750.43,603.33,124,Fall,588.3999999999996
+408153,2024-08-05,Clothing,Men,Men Product 460,West,3,941.48,835.64,175,Summer,317.5200000000001
+453820,2024-06-12,Home & Kitchen,Furniture,Furniture Product 104,North,4,522.68,469.72,149,Winter,211.8399999999997
+791023,2024-08-08,Sports,Outdoor,Outdoor Product 490,North,1,758.38,521.25,169,Fall,237.13
+892708,2024-03-21,Home & Kitchen,Furniture,Furniture Product 350,North,4,59.39,41.95,173,Summer,69.75999999999999
+734852,2024-09-11,Home & Kitchen,Furniture,Furniture Product 652,South,4,536.26,472.37,91,Summer,255.55999999999995
+445547,2024-08-27,Electronics,Cameras,Cameras Product 190,East,4,681.46,482.51,163,Spring,795.8000000000002
+780646,2024-05-17,Electronics,Mobiles,Mobiles Product 489,East,3,374.52,242.01,187,Winter,397.53
+393351,2024-11-03,Toys,Board Games,Board Games Product 817,East,2,323.82,231.82,177,Spring,184.0
